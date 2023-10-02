@@ -1,10 +1,19 @@
 ### Hi 👋, I'm Dimas.
+![](https://komarev.com/ghpvc/?username=dimasaryamurdiyan)
 
-Android Engineer with 2+ years of experience building android apps. Graduate in computer science with a passion about mobile development, especially Android. Proficient in a range of modern technologies including Kotlin, MVVM Architecture, Android Jetpack. Can work well both independently and in a team.
+Android Engineer with 3+ years of experience building android apps. Graduate in computer science with a passion about mobile development, especially Android. Proficient in a range of modern technologies including Kotlin, MVVM or Clean Architecture, Android Jetpack. Can work well both independently and in a team.
 
 - 🔭 Latest Experience working on @BinarAcademy as Android Engineer
 - 🌱 I’m currently learning Android Kotlin and Flutter
-- 📫 How to reach me: dimasaryamurdiyan123@gmail.com
+- 📫 How to reach me:
+
+  <a href="https://linkedin.com/in/dimas-arya-murdiyan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dimasaryamurdiyan123@gmail.com" >
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
+  </a>
+
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
