@@ -6,6 +6,8 @@ Android Engineer with 3+ years of experience building android apps. Graduate in 
 ~ 🏢 Currently working @[KipasKipas](https://kipaskipas.com/) as Android Developer. <br/>
 ~ 🌱 Actively learning Android Kotlin and Flutter.
 
+## :notebook: Portfolio
+You can see my project portfolio : [[click here]](https://drive.google.com/drive/folders/1GIK8Pp6KSA92EaNWDyiIXwGckSQt3uB9?usp=drive_link).
   
 ## 📫 How to reach me
   <a href="https://linkedin.com/in/dimas-arya-murdiyan">
