@@ -3,7 +3,7 @@
 
 Android Engineer with over 4 years of experience building android apps. Graduate in computer science with a passion about mobile development, especially Android. Proficient in a range of modern technologies including Kotlin, MVVM or Clean Architecture, Android Jetpack. Can work well both independently and in a team.
 
-~ 🏢 Currently working @[KipasKipas](https://kipaskipas.com/) as Android Developer. <br/>
+~ 🏢 Currently working @[Imago](https://imago.us/) as Android Developer. <br/>
 ~ 🌱 Actively learning Android Kotlin and Flutter.
 
 ## :notebook: Portfolio
